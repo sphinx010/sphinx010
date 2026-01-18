@@ -14,13 +14,11 @@ Hi, Ayooluwa here... your legal QA Engineer ;-)<br>i design scalable test automa
 ![](https://nirzak-streak-stats.vercel.app/?user=sphinx010&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sphinx010&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![3](https://github-profile-trophy.vercel.app/?username=sphinx010&theme=synthwave&no-frame=false&no-bg=true&margin-w=4)
----
+
 ### 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![83](https://visitcount.itsvg.in/api?id=sphinx010&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
