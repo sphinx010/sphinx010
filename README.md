@@ -28,6 +28,5 @@
 
 ---
 
-![aef33396da018494c041d19e40addec7](https://github.com/user-attachments/assets/e289df9f-aa94-4d2c-9f5f-b50e567ccd57)
 <!-- Pr
 oudly created with GPRM ( https://gprm.itsvg.in ) -->
