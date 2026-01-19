@@ -3,7 +3,7 @@
 +++ i design scalable test automation systems
 +++ that ship quality with data-driven confidence
 ```
-
+![aef33396da018494c041d19e40addec7](https://github.com/user-attachments/assets/a7f764b7-dac2-4c4d-8916-30aca2b5d2e6)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nox_l19) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ayooluwa-paul-b190b3272?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:obembeayooluwa.work@gmail.com) 
@@ -25,7 +25,6 @@
 
 ---
 ### 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
