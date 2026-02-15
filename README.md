@@ -3,7 +3,9 @@
 +++ i design scalable test automation systems
 +++ that ship quality with data-driven confidence
 ```
-![Uploading ChatGPT Image Feb 15, 2026, 01_51_29 PM.png…]()
+
+<img width="1024" height="1024" alt="ChatGPT Image Feb 15, 2026, 01_51_18 PM" src="https://github.com/user-attachments/assets/5d5c234d-eb2a-4b71-b33f-974f27890825" />
+
 
 
 ## 🌐 Socials:
