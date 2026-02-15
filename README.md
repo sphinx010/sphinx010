@@ -1,10 +1,10 @@
-## Hello, i am Ayooluwa, QA Engineer ;-)
+## Hello, i am Ayooluwa, QA Engineer
+<img width="124" height="124" alt="ChatGPT Image Feb 15, 2026, 01_51_18 PM" src="https://github.com/user-attachments/assets/5d5c234d-eb2a-4b71-b33f-974f27890825" />
 ```diff
 +++ i design scalable test automation systems
 +++ that ship quality with data-driven confidence
 ```
 
-<img width="124" height="124" alt="ChatGPT Image Feb 15, 2026, 01_51_18 PM" src="https://github.com/user-attachments/assets/5d5c234d-eb2a-4b71-b33f-974f27890825" />
 
 
 
