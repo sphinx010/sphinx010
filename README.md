@@ -1,4 +1,4 @@
-# ⚖️ Ayooluwa Paul Obembe | Legal-Tech & QA Engineer
+# ⚖️ Ayooluwa Paul Obembe | Legal-Tech specialist | AI Evaluation and model QA | QA Automation Engineer
 ### *Building pipelines ensure precision with Autonomous Quality Intelligence*
 
 <p align="left">
@@ -10,8 +10,6 @@
 +++ that ship quality with data-driven confidence
 
 ```
-
-<img width="124" height="124" alt="ChatGPT Image Feb 15, 2026, 01_51_18 PM" src="https://github.com/user-attachments/assets/5d5c234d-eb2a-4b71-b33f-974f27890825" />
 
 About Me
 QA Engineer : Specialized in building autonomous QA pipelines and AI-driven testing tools.
