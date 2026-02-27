@@ -1,4 +1,4 @@
-# ⚖️ Ayooluwa Paul Obembe | Legal-Tech specialist | AI Evaluation and model QA | QA Automation Engineer
+# Ayooluwa Paul Obembe | Legal-Tech specialist | AI Evaluation and model QA | QA Automation Engineer
 ### *Building pipelines ensure precision with Autonomous Quality Intelligence*
 
 <p align="left">
