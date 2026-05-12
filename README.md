@@ -17,7 +17,7 @@
 ## About Me
 
 - **QA Engineer:** Specialized in building autonomous QA pipelines and AI-driven testing tools.
-- **Dual Background:** A qualified Lawyer applying structured legal logic to complex software architectures.
+- **Dual Background:** A Lawyer applying structured legal logic to complex software architectures.
 - 🇳🇬 **Based in:** Lagos, Nigeria.
 
 ### 🛠️ Current Projects
