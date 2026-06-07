@@ -67,10 +67,12 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sphinx010&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&include_all_commits=true&hide=contribs" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sphinx010&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Top Languages" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sphinx010&theme=tokyonight" width="450" />
 </p>
-
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sphinx010&theme=tokyonight" width="360" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sphinx010&theme=tokyonight" width="360" />
+</p>
 <p align="center"><i>"Code is law. Let's make sure both are bug-free."</i></p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2EAD33,100:1f3a5f&height=120&section=footer" alt="footer" />
