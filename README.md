@@ -17,7 +17,7 @@
 ---
 
 ### &nbsp;👨‍💻&nbsp; About Me
-
+<a href="https://my-portfolio-9qaq.vercel.app/"> My Portfolio </a>
 ```diff
 + QA Automation Engineer building autonomous QA pipelines and AI-driven
 + testing tools for high-traffic SaaS and regulated fintech platforms.
